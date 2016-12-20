@@ -10,5 +10,6 @@
 </ul>
 <h3 style="text-align: center;">Что вы готовы для этого сделать?</h3>
 <h5>Готов приделить максимум времени.</h5>
+![ptc0zei-wde](https://cloud.githubusercontent.com/assets/24577568/21366704/9c4dde98-c703-11e6-8853-e843d8f85092.jpg)
 ***
 
